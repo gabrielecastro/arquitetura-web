@@ -17,7 +17,8 @@ Esta aplicação, desenvolvida com **Spring Boot**, fornece autenticação via *
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/gustavosantt/autheticuser.git
+git clone git@github.com:gabrielecastro/arquitetura-web.git
+cd ApiValidacaoJwt-main
 cd autheticuser
 Compile o projeto:
 
