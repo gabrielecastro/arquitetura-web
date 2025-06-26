@@ -1,8 +1,6 @@
 # 🔐 API de Autenticação e Autorização com JWT
 
-> “Na terra dos dados, o acesso é o reino; e os tokens, as chaves invisíveis que abrem ou selam os portais.”
-
-Esta é uma API RESTful desenvolvida com **Spring Boot**, que oferece endpoints seguros de **autenticação**, **registro de usuários** e **validação de tokens JWT**. Uma fortaleza minimalista que protege dados com elegância e rigor.
+Esta é uma API RESTful desenvolvida com **Spring Boot**, que oferece endpoints seguros de **autenticação**, **registro de usuários** e **validação de tokens JWT**.
 
 ---
 
@@ -32,11 +30,6 @@ Esta é uma API RESTful desenvolvida com **Spring Boot**, que oferece endpoints 
 
 ---
 
-## 🛠️ Como Executar
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
 
 
